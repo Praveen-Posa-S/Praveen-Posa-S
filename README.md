@@ -94,7 +94,7 @@ Motivated and detail-oriented AI & ML enthusiast with a strong foundation in dee
 ---
 
 ## 📊 GitHub Stats
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveen-Posa-S&show_icons=true&theme=radical)
 
 ---
 
