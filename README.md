@@ -7,95 +7,38 @@
 ---
 
 ## 🚀 About Me
-Motivated and detail-oriented AI & ML enthusiast with a strong foundation in deep learning, computer vision, and web development. Passionate about building real-world impactful solutions and continuously learning new technologies.
+Motivated and detail-oriented individual with a strong foundation in Artificial Intelligence and Machine Learning.
+Passionate about leveraging innovative problem-solving abilities to contribute to impactful real-world solutions.
+Dedicated to continuous learning and collaboration in dynamic environments.
 
 ---
 
-## 🧠 Skills
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Java
-- Python
-- C
-- JavaScript
+![Tech Stack](https://skillicons.dev/icons?i=python,java,js,html,css,tensorflow,pytorch,opencv)
 
-### 🌐 Web & Backend
-- HTML, CSS, JavaScript
-- Node.js, Express.js
-- REST APIs
-- MongoDB, MySQL
-
-### 🤖 AI/ML & Libraries
-- NumPy, Pandas, Scikit-learn
-- TensorFlow, PyTorch, Keras
-- OpenCV
-
-### 🛠️ Tools
-- Git & GitHub
-- Docker
-- Selenium
-- Postman, Bruno
-
-### 🧩 Soft Skills
-- Problem Solving
-- Communication
-- Leadership
-- Adaptability
-- Time Management
-
----
-
-## 📌 Projects
-
-### 🌾 Disease Detection in Finger Millet
-- Built a CNN (VGG16) based deep learning model
-- Image classification for crop disease detection
-- Improved accuracy through preprocessing & fine-tuning
-
-### 📰 Fake News Detection (CNN + LSTM)
-- Combined CNN for feature extraction and LSTM for sequence learning
-- Worked on NLP and text classification
-
-### 🖐️ AI Virtual Mouse
-- Controlled cursor using hand gestures
-- Real-time computer vision system using OpenCV
-
-### ⛽ Fuelora - Smart Fuel Delivery System
-- Full-stack web application for fuel delivery
-- Features:
-  - Authentication system
-  - Live order tracking
-  - Wallet system
-  - Nearby fuel station integration
-- Tech Stack: HTML, CSS, JS, Node.js, MongoDB
-
----
+#### 🗄️ Database
+![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+#### ⚙️ Dev Tools  
+![Backend](https://skillicons.dev/icons?i=selenium,docker,git,postman)
+#### ☁️ Cloud
+![Cloud](https://skillicons.dev/icons?i=aws)
 
 ## 🏆 Certifications
-- 🧠 Natural Language Processing – Infosys Springboard (2025)
-- ☁️ ServiceNow Certified Application Developer (2025)
-- 🖥️ ServiceNow Certified System Administrator (2025)
-- 🚀 AI for Entrepreneurship – Intel India (2025)
 
----
+<p align="center">
+  <img src="https://learning.servicenow.com/Credential%20Badge%20-%20Mainline%20-%20Certified%20Application%20Developer.png" width="120"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://learning.servicenow.com/Credential%20Badge%20-%20Mainline%20-%20Certified%20System%20Administrator.png" width="120"/>
+</p>
 
-## 🎯 Goals
-- 🔍 Looking for internship opportunities in AI/ML & Full-Stack Development
-- 🚀 Build scalable real-world AI solutions
-- 📈 Improve problem-solving & DSA skills
+<p align="center">
+  <b>ServiceNow Certified Application Developer (CAD)</b> &nbsp;&nbsp; | &nbsp;&nbsp;
+  <b>ServiceNow Certified System Administrator (CSA)</b>
+</p>
 
----
 
-## 🎨 Hobbies
-- Drawing 🎨
-- Painting 🖌️
-- Music 🎵
 
----
-
-## 📊 GitHub Stats
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveen-Posa-S&show_icons=true&theme=radical)
-
----
-
+<p align="center">
 ⭐ *Feel free to explore my repositories and connect with me!*
+</p>
