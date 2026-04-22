@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 🙎🏻‍♂️ About Me
 Motivated and detail-oriented individual with a strong foundation in Artificial Intelligence and Machine Learning.
 Passionate about leveraging innovative problem-solving abilities to contribute to impactful real-world solutions.
 Dedicated to continuous learning and collaboration in dynamic environments.
