@@ -1,7 +1,7 @@
-# Hi there 👋, I'm Praveen Posa S
-
-🎓 B.Tech CSE (AI & ML) Student at Dayananda Sagar University  
-📍 Bangalore, India  
+<h1 align="center"> Hi there 👋, I'm Praveen Posa S
+</h1>
+🎓 B.Tech CSE (AI & ML) Student at Dayananda Sagar University </br>
+📍 Bangalore, India  </br>
 📧 srinivaspraveen043@gmail.com  
 
 ---
