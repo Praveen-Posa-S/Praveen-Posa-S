@@ -40,5 +40,5 @@ Dedicated to continuous learning and collaboration in dynamic environments.
 
 
 <p align="center">
-⭐ *Feel free to explore my repositories and connect with me!*
+⭐ Feel free to explore my repositories and connect with me!
 </p>
